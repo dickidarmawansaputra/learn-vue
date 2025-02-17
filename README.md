@@ -1,5 +1,5 @@
 # Learn Vue 3
-![vue](https://github.com/user-attachments/assets/94f11195-717f-4ca3-9174-a3c9d15cd515)
+![1*EM2oYsb4-NzwJ0YqszVaig](https://github.com/user-attachments/assets/d1834f95-fea8-49d8-93f1-e0aea5d92636)
 
 Learn vue 3 from basic.
 
