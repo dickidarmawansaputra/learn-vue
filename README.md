@@ -1,5 +1,5 @@
 # Learn Vue 3
-<p align="center"><img src="https://router.vuejs.org/logo.svg" width="300"></p>
+<p align="center"><img src="https://router.vuejs.org/logo.svg" width="100"></p>
 
 Learn vue 3 from basic.
 
